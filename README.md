@@ -1,0 +1,2 @@
+**Projects**
+Wordle type game
